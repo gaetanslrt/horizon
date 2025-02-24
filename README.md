@@ -1,4 +1,4 @@
-# horizon
+# Horizon
 
 Weather App flutter project by Gaetan Slrt
 
@@ -12,5 +12,11 @@ Weather App flutter project by Gaetan Slrt
 
 Twitter/X : @gaetanslrt (https://x.com/gaetanslrt)
 Github : gaetanslrt (https://github.com/gaetanslrt)
+
+## Screenshots
+
+![image](images/image_1.jpg)
+![image](images/image_2.jpg)
+![image](images/image_3.jpg)
 
 
