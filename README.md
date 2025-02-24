@@ -12,13 +12,12 @@ flutter build apk --release
 
 ## Follow Me
 
-Twitter/X : @gaetanslrt (https://x.com/gaetanslrt)
+Twitter/X : @gaetanslrt (https://x.com/gaetanslrt)<br>
 Github : gaetanslrt (https://github.com/gaetanslrt)
 
 ## Screenshots
 
-![image](images/image_1.jpg)
-![image](images/image_2.jpg)
-![image](images/image_3.jpg)
-
+<img src="images/image_1.jpg" width=30%>
+<img src="images/image_2.jpg" width=30%>
+<img src="images/image_3.jpg" width=30%>
 
