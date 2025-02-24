@@ -4,9 +4,11 @@ Weather App flutter project by Gaetan Slrt
 
 ## Build the release APK
 
-- flutter clean
-- flutter pug get
-- flutter build apk --release
+```
+flutter clean
+flutter pug get
+flutter build apk --release
+```
 
 ## Follow Me
 
